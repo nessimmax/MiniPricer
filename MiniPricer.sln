@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPricer", "MiniPricer\MiniPricer.csproj", "{59DC25AD-A089-4B07-93D1-C96B85C4D7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPricer.Tests", "MiniPricer.Tests\MiniPricer.Tests.csproj", "{23CB18FA-6A74-4BD3-9888-B0D91D53BA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DC25AD-A089-4B07-93D1-C96B85C4D7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DC25AD-A089-4B07-93D1-C96B85C4D7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DC25AD-A089-4B07-93D1-C96B85C4D7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DC25AD-A089-4B07-93D1-C96B85C4D7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CB18FA-6A74-4BD3-9888-B0D91D53BA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CB18FA-6A74-4BD3-9888-B0D91D53BA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CB18FA-6A74-4BD3-9888-B0D91D53BA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CB18FA-6A74-4BD3-9888-B0D91D53BA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95C6415-A7DF-4A86-9DBA-A8B64FD4F816}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\MiniPricer.Tests.dll
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\MiniPricer.Tests.pdb
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\obj\Debug\MiniPricer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\obj\Debug\MiniPricer.Tests.csproj.CopyComplete
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\obj\Debug\MiniPricer.Tests.dll
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\obj\Debug\MiniPricer.Tests.pdb
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\obj\Debug\MiniPricer.Tests.csprojAssemblyReference.cache
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\MiniPricer.exe
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\MiniPricer.pdb
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer.Tests\bin\Debug\MiniPricer.exe.config

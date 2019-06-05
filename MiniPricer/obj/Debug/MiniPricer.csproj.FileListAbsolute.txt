@@ -1,0 +1,7 @@
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\bin\Debug\MiniPricer.exe.config
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\bin\Debug\MiniPricer.exe
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\bin\Debug\MiniPricer.pdb
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\obj\Debug\MiniPricer.csproj.CoreCompileInputs.cache
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\obj\Debug\MiniPricer.exe
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\obj\Debug\MiniPricer.pdb
+C:\Users\C17 Developer\Source\Repos\MiniPricer\MiniPricer\obj\Debug\MiniPricer.csprojAssemblyReference.cache
